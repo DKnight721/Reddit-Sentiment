@@ -1,0 +1,14 @@
+# API and data fetching
+praw==7.7.0
+python-dotenv==1.0.0
+
+# NLP and data processing
+nltk==3.8.1
+transformers==4.30.2
+torch==2.0.1
+
+# Supabase client
+supabase==1.0.3
+
+# AWS Lambda (if deploying to AWS)
+boto3==1.26.135
